@@ -1,6 +1,6 @@
 flappywings2
 
-https://xpxxxu.github.io/Falppywings2/
+https://hussainalsari.github.io/Falppywings2/
 ---
 
 # 🐦 FlappyWings 2 - Enhanced Edition
